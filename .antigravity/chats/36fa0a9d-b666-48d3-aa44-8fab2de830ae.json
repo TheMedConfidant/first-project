@@ -3,7 +3,7 @@
   "name": "connect Google",
   "createdAt": "2026-11-16T11:20:29.260Z",
   "filename": "36fa0a9d-b666-48d3-aa44-8fab2de830ae.json",
-  "geminiStarted": false,
+  "geminiStarted": true,
   "messages": [
     {
       "id": "15006d79-fcd5-42e8-b643-da83562a0742",
